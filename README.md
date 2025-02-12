@@ -7,15 +7,14 @@ I am **Rishi Srivastava**, a passionate software developer with a strong interes
 
 ## LeetCode Repositories
 I have been consistently solving **LeetCode problems** and participating in contests. Here are my repositories:
-- **[LeetCode Solutions](https://github.com/rishisrivastava07/leetcode-solutions)**
-- **[LeetCode Contests](https://github.com/rishisrivastava07/leetcodeContests)**
+- **[LeetCode Solvings](https://github.com/rishisrivastava07/Leetcode-Solving)**
 
 ## Projects Repositories
 Here are some of the projects I have worked on:
-- **[WanderLust - Travel Accommodation Website](https://github.com/rishisrivastava07/WanderLust)**
+- **[WanderLust - Travel Accommodation Website](https://github.com/rishisrivastava07/WanderLust-Full-Stack-Project)**
 - **[GitHub-DevDetective - GitHub Profile Search](https://github.com/rishisrivastava07/GitHub-DevDetective)**
+- **[Graph Exploration using Distributed MIS Algorithm](https://github.com/rishisrivastava07/Graph-Exploration-Problem)**
 - **[Spotify Clone](https://github.com/rishisrivastava07/Spotify-Clone)**
-- **[Graph Exploration using Distributed MIS Algorithm](https://github.com/rishisrivastava07/Graph-Exploration-MIS)**
 
 ## Contact & Social Media
 Feel free to connect with me and explore my work:
