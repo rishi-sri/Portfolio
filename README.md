@@ -12,9 +12,9 @@ I have been consistently solving **LeetCode problems** and participating in cont
 ## Projects Repositories
 Here are some of the projects I have worked on:
 - **[WanderLust - Travel Accommodation Website](https://github.com/rishisrivastava07/WanderLust-Full-Stack-Project)**
-- **[GitHub-DevDetective - GitHub Profile Search](https://github.com/rishisrivastava07/GitHub-DevDetective)**
+- **[GitHub-DevDetective - GitHub Profile Search](https://github.com/rishisrivastava07/Projects/tree/main/JS-Projects/github-dev-detective)**
 - **[Graph Exploration using Distributed MIS Algorithm](https://github.com/rishisrivastava07/Graph-Exploration-Problem)**
-- **[Spotify Clone](https://github.com/rishisrivastava07/Spotify-Clone)**
+- **[Spotify Clone](https://github.com/rishisrivastava07/Projects/tree/main/CSS-Projects/spotify-clone)**
 
 ## Contact & Social Media
 Feel free to connect with me and explore my work:
